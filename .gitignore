@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+.env
+data/raw/
+.idea/
+data/processed/crashes_clean_full.csv
