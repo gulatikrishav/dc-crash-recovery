@@ -2,7 +2,7 @@
 
 A Streamlit dashboard and validation pipeline for identifying road-network matching issues in Washington, DC crash data — and recovering missing intersection identifiers with measurable accuracy.
 
-**Live demo:** [link goes here after Streamlit Cloud deploy]
+**Live demo:** [Link](https://dc-crash-recovery-7s8gwg5ywxzzg4ahnt2ern.streamlit.app/)
 
 ---
 
